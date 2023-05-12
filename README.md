@@ -1,1 +1,2 @@
 # Project_Python_Bachorik_Dusatko
+The program collects daily stock prices from Yahoo Finance and stores them in a database. The user chooses which companies he would like to purchase and the program optimizes his portfolio using Markowitz model. It uses the current "risk-free" government bonds to maximize the Sharpe ratio and returns the optimal portfolio distribution and some charming graphics. We'll probably restrict ourselves to medium and large U.S. companies that are included in popular stock indexes such as the S&P 500, Nasdaq, Dow Jones, etc.
